@@ -1,2 +1,1 @@
-# Air-Sheet
-The "airsheet" project combines computer vision and GUI technologies to create interactive applications. Utilizing Mediapipe, OpenCV, and Tkinter, it offers drawing tools and a Flappy Bird game controlled by hand gestures.
+The "airsheet" project features interactive drawing tools and a Flappy Bird game controlled via hand gestures using Mediapipe, OpenCV, and Tkinter. The main.py file provides a GUI for selecting functionalities such as drawing shapes, colors, and playing the game. Drawing functionalities utilize hand gestures captured by the webcam, while the game integrates hand gesture controls for the bird's movement. This project showcases the fusion of computer vision and GUI technologies for creating interactive applications.
